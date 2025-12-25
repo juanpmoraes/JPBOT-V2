@@ -1,1 +1,1 @@
-# JPBOT-V2
+# JPBOT
