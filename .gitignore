@@ -3,3 +3,4 @@ ffmpeg*/
 *.exe
 venv/
 __pycache__/
+token.txt
